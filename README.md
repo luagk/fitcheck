@@ -30,7 +30,7 @@ Build and type checking passed during initial setup. Live model analysis and bro
 
 ## Demo
 
-Demo GIF placeholder: the project owner will record and add the fictional-persona demo manually.
+![fitcheck demo showing a resume and job description comparison](public/demo.gif)
 
 ## Next steps
 
