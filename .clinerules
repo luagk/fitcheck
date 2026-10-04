@@ -1,0 +1,11 @@
+Working rules (for the coding agent)
+Task completion
+NEVER use attempt_completion to report progress, partial findings or the next step. For that, just keep working.
+Only use attempt_completion when every item in "Done when" is satisfied and npm run build passes with no errors.
+Do not ask whether you should continue: the answer is always yes.
+Every response must end with a tool call (read, write, run). Never reply with text only.
+Do not read the same large file more than once in the same task.
+Do not add anything outside this spec. If a decision is not covered here, choose the simplest option and move on.
+
+- Load each skill at most once per task. After a tool returns, use its result; never repeat an identical tool call.
+- If you are unsure what to do next, continue with the next unfinished item in SPEC.md "Structure", then "Done when".

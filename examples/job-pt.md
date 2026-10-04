@@ -1,0 +1,2 @@
+Programador frontend, oferta fictícia na Coast Software
+Procuramos experiência com React, TypeScript, HTML acessível e CSS responsivo. A função inclui integração de APIs REST, colaboração com Git e trabalho com designers. É necessária experiência com testes automatizados e Next.js. Valorizamos conhecimentos de medição de desempenho.

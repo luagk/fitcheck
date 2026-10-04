@@ -1,0 +1,2 @@
+Frontend developer, fictional vacancy at Coast Software
+We need a developer with React, TypeScript, accessible HTML and responsive CSS experience. The role involves REST API integration, Git collaboration and working with designers. Experience with automated testing and Next.js is required. Knowledge of performance measurement is welcome.
